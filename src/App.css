@@ -1,5 +1,5 @@
 .App {
-  height: 110vh;
+  height: 100vh;
   color: white;
   background-color: #020230;
   display: flex;
@@ -114,7 +114,7 @@
 .item {
   display: inline-block;
   align-items: center;
-  padding: 5px;
+  padding: 6.5px;
   border-radius: 5px;
   width: auto;
 }
